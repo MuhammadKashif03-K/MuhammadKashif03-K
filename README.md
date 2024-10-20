@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MuhammadKashif03-K
 - 👀 I’m interested in ...doing programing and tech related staff
 - 🌱 I’m currently learning ...computer science 1st semester and learning basic of computer science
-- 💞️ I’m looking to collaborate on ...I want collaborate in feild of techonology speically in our country working on e-services 
-- 📫 How to reach me ...By linkin,instgram,facebook,
-- 😄 Pronouns: ...kashmasd khan
+- 💞️ I’m looking to collaborate on ...I want collaborate in feild of technology specially in our country I want work on e-services / Portals
+- 📫 How to reach me ...By linkedin, instgram, facebook,
+- 😄 Pronouns: ...Kashmasd khan
 - ⚡ Fun fact: ...i my a mid rang It specialist
 
 <!---
