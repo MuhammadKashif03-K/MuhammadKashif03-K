@@ -1,0 +1,29 @@
+#include <iostream>
+#include <iomanip>
+#include <stdio.h>
+#include <c string>
+using namespace std;
+
+int main() 
+{
+ int num=1;
+ int sum=0;
+ 
+while (num<=10)
+ {
+ 	sum+=num;
+ 	cout<<sum;
+ 	num++;
+ }
+    int sum = 0;
+    int number = 1;
+
+    // While loop to calculate the sum
+    while (number <= 10) {
+        sum += number;
+        number++;
+    }
+
+    // Print the result
+    cout << "The sum of numbers from 1 to 10 is: " << sum << endl;
+  
